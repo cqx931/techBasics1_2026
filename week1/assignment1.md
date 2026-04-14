@@ -3,7 +3,7 @@
 - Create your first GitHub Repository, name it in the following way: `techBasics1_Firstname_Lastname`
 - Create a `README.md` file in it, write some meaningful content in it and try to make it look nicer with some basic `Mardown` styling. You can learn more about Markdown [here](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet)
 
-- Inside your repo, click `Add File`, then `+ Create new file`. Name the new file `assignments/week1/assignment1.md`
+- Inside your repo, click `Add File`, then `+ Create new file`. Name the new file `assignments/week1/assignment1.py`
 - Copy and paste your ASCII Art code (Task 3 in Exercise 1) in the interface
 - Click `Commit changes` button, write a meaningful commit message and `Commit changes`
 
